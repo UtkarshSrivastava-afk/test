@@ -1,0 +1,64 @@
+your name : UTKARSH SRIVASTAVA
+ your rollno : 2001076
+your branch : MECHANICAL
+ your gender : MALE
+your name : KSHITIJ RAJ
+ your rollno : 2001
+your branch : CIVIL
+ your gender : MALE
+your name : AMAN 
+ your rollno : 4
+your branch : AGRICULTURE
+ your gender : MALE
+your name : abhishek
+ your rollno : 2013
+your branch : mechanical
+ your gender : male
+your name : aviral
+ your rollno : 20134
+your branch : mechanical
+ your gender : male
+your name : vaibhav 
+ your rollno : 20034
+your branch : mech
+ your gender : male
+your name : atul
+ your rollno : 301
+your branch : mech
+ your gender : male
+your name : abdul
+ your rollno : 01
+your branch : mech
+ your gender : male
+your name : raj
+ your rollno : 37
+your branch : mech
+ your gender : male
+your name : ayush
+ your rollno : 14
+your branch : mech
+ your gender : male
+your name : sandeep
+ your rollno : 20010122
+your branch : mechanical
+ your gender : male
+your name : shubham
+ your rollno : 2001073
+your branch : mechanical
+ your gender : male
+your name : jay
+ your rollno : 3456
+your branch : mechanical
+ your gender : male
+your name : akshay
+ your rollno : 786
+your branch : mechanical
+ your gender : male
+your name : KRAKEN
+ your rollno : 34
+your branch : SEA DEMON
+ your gender : UNKNOWN
+your name : abhinav
+ your rollno : 1
+your branch : mech
+ your gender : male
