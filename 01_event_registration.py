@@ -6,7 +6,7 @@ class participant:
         self.gender = gender
 
     def registration(self):
-        print("****** REGISTRATION PROCESS STARTED******")
+        print("****** REGISTRATION PROCESS STARTED")
         print("          ****YOUR DETAILS****")
         print(f" your name : {self.name}\nyour rollno : {self.rollno}")
         print(
